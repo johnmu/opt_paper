@@ -1,3 +1,8 @@
 opt_paper
 =========
-The code needs QHULL and Lapack to compile
+The code needs QHULL Cplex(IBM) and Lapack(Fortran Lib) to compile.
+------------------
+make
+------------------
+TRI partition-file lambda
+
